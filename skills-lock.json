@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "slide-deck": {
+      "source": "code-on-sunday/slide-deck-generator",
+      "sourceType": "github",
+      "computedHash": "eada599f836f634cc2fed5cbe4afe8c6f6d552820ce0c42b63f31e71e76cb6b7"
+    }
+  }
+}
