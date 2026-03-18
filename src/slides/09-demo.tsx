@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import SlideLayout from '../components/SlideLayout';
-import { staggerContainer, slideInLeft, slideInRight } from '../lib/animations';
+import { slideInLeft, slideInRight } from '../lib/animations';
 
 const scenarios = [
   {

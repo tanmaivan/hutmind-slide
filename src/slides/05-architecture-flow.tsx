@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import SlideLayout from '../components/SlideLayout';
 import { staggerContainer, fadeUp } from '../lib/animations';
 import { 
-  Database, User, FileText, Sparkles, 
+  User, FileText, Sparkles, 
   Layers, Search, Code, SplitSquareHorizontal,
   ArrowRight, ArrowDown, ArrowUp
 } from 'lucide-react';
